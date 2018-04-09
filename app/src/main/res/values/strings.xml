@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Muzei Favorites</string>
+    <string name="picture_by_author">%1$s by %2$s</string>
+    <string name="success">The picture was saved.</string>
+    <string name="unable_to_save">Uh oh… Something went wrong.</string>
+    <string name="no_artwork">No Picture Found.</string>
+</resources>
